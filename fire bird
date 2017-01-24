@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+			<meta charset="UTF-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1"> 
+		<title>火鶴鳥與火鶴鳥蛋</title>
+		<style type="text/css">
+			body {
+				background-color:#FF8C00; 
+				text-align: center;
+			}
+			h3 {
+				color: #1E90FF;
+			}
+			h1,h4,p {
+				color: #6B8E23;
+			}
+			ul li {
+				color: #f0f2f2;
+			}
+			ol {
+			    background: #0000FF;
+			    padding: 20px;
+			    list-style-position:inside;
+			}
+			ol li {
+			    background: #6495ED;
+			    padding: 5px;
+			    margin-left: 35px;
+			}
+			img { 	
+				border-style: dotted; 
+				border-width: 4px;
+    			border-color: #d1b361;
+    		}
+		</style>
+		<meta charset="utf-8">
+		<title>Ingredients - example</title>
+	</head>
+	<body>
+		<h1><ins>火鶴鳥與蛋黃</ins></h1><!--底線-->
+		<h3>中文名：火鶴鳥</h3>
+		<h3>英文名：Phoenico pterus ruber / greater flamingo</h3>
+		<h2>產品快照</h2>	
+		<img src="https://i.imgur.com/AYuyUr5.jpg" width="30%">
+		<img src="http://www.fuhuaji.com/niaoqintp/hln.jpg" width="45%">
+		<h3>蛋特徵：</h3>
+		<ul>
+			<li>蛋殼厚，蛋顏色偏藍綠色，大小約7.8-9公分，重量約115-140公克，繁殖時每巢只產下一枚蛋
+			<br></br>
+			<br>上圖為示意圖，實際蛋殼為藍綠色</br></li>
+		<h3>鳥特徵：火鶴鳥以泥築巢，巢基底在水中，高約0.5公尺
+		            孵化期約27-31天。<br>火鶴鳥只有在食物短缺與環境突變時進行遷徙
+					飛行速度可達50-60KM/HR 持續10小時</br></h3>
+		</ul>
+		<!--斜體-->
+		<h3>壽命：<em>20-30年</em></h3>
+		<h3>身高：1-1.4公尺
+		    <br>體重 :2.1-4.1公斤</br>			翼展 :1-1.6公尺</h3>
+		<!--標記-->
+				<h3>身體顏色來源：剛出生的小紅鶴通常顏色是白色的，成長過程中，持續吃進許多含有甲殼素的食物，會讓羽毛漸漸轉成紅色。</h3>
+		<br></br>
+		<br></br>
+		<h1>回首頁<h1>
+		<hr>
+		<!--刪除線 + 小字-->
+		<p>傳說故事</p>
+		<p>在樓蘭古國有一種奇特的鳥。傳說他們羽毛豐滿後會一直往南飛，不停的飛，只為在南焰山讓天火將自己的羽毛點燃，而後將火種帶回樓蘭古國，在天翼山化為灰燼。所以，樓蘭的子民稱他為火烈鳥。並將其視為王的保護神，當樓蘭王子受罰入塔，火烈鳥也接受神罰困於通天塔中，一旦有異族侵入，火烈鳥將火光迸現，顯示出超常的神力，全身都被耀眼的光焰籠罩，尖利的喙成為最鋒利的刃。
+通天塔中的群魔都以“火”為信仰，希望通過這火焰的燃燒來消除原罪。而烈焰使正是掌握這一強大力量的祭祀，當初，是他將國王的權仗交給樓蘭王子，如今，他憑藉禦火的超強法力，依舊成為通天教主的重要使者。雖然他身單力薄，但他揮手即出的烈焰火球，足以讓入侵者望而生畏。
+曾經的樓蘭王子，由於嫉妒和暴虐，被永遠禁錮在“通天塔”內守護這片土地。昔日的樓蘭早已成為了傳說中的國度。而王子的稱號也變成了與這座被詛咒的塔相同的名諱----通天教主。但他仍然守侯著這片土地，盼望著直到有一天，能用入侵者和自己的鮮血換來子民的原諒，和靈魂的自由。
+</p>
+	</body>
+</html>
